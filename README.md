@@ -4,4 +4,6 @@ Dev Connect is a web based application which helps various developers and studen
 <h1>Running Frontend </h1>
 * <p>Need node.js and git to be installed </p>
 
-1) > cd frontend
+1) >cd frontend
+2) >npm install .
+3) npm start
